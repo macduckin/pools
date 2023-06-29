@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Kdam+Thmor+Pro&family=Rajdhani:wght@600&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@import url("vendor/reset.css");
+@import url("vendor/same.css");
+@import url("comp/header.css");
+@import url("comp/home.css");
+@import url("comp/about.css");
+@import url("comp/counter.css");
+@import url("comp/advantages.css");
+@import url("comp/number.css");
+@import url("comp/offer.css");
+@import url("comp/services.css");
+@import url("comp/gallery.css");
+@import url("comp/social.css");
+@import url("comp/contact.css");
+@import url("vendor/adoptation.css");
